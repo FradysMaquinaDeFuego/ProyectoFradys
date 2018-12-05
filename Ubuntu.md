@@ -1,5 +1,5 @@
 # PROYECTO UBUNTU
-## Para empezar con los pasos, necesitarémos MySQL, Apache y PHP ya instalados.
+### Para empezar con los pasos, necesitarémos MySQL, Apache y PHP ya instalados.
 -Para hacerlo, inserte este código:
 
 $ sudo apt install apache2 php mysql-server mysql
